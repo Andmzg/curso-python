@@ -1,0 +1,3 @@
+git remote -v : Donde esta enlazado el repertorio de git
+
+gitignore.io crea archigo .gitignore (colocar como basico, windows, linux, mac y python)
