@@ -12,6 +12,7 @@ python main.py
 ```
 git clone
 cd app
+python -m venv venv 
 source venv/script/activate
 pip instal -r requirements.txt
 python main.py
