@@ -29,5 +29,6 @@ def run():
     labels, values = utils.get_population(country)
     charts.generate_bar_chart(country['Country'], labels, values)
 
+
 if __name__ == '__main__':
   run()
